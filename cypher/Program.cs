@@ -1,23 +1,38 @@
+namespace Cypher
+{
+    public class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Enter message: ");
+            string message = Console.ReadLine() ?? "";
+            Encrypt(message);
+        }
 
-// input string
+        static void Encrypt(string message)
+        {
+            
+            // input string
 
-// convert string from ascii to hexidecimal
+            // convert string from ascii to hexidecimal
 
-// encrypt hexidecimal with key
+            // encrypt hexidecimal with key
 
-// output encrypted response
-
-
-
-
+            // output encrypted response
+            Console.WriteLine(message);
+        }
 
 
 
 
-// input encrypted message
 
-// decrypt with key
 
-// convert back to readable text
+        // input encrypted message
 
-// output decoded message
+        // decrypt with key
+
+        // convert back to readable text
+
+        // output decoded message
+    }
+}

@@ -1,0 +1,15 @@
+C:\Users\angus\Documents\Code\Projects\cypher\obj\Debug\net7.0\cypher.csproj.AssemblyReference.cache
+C:\Users\angus\Documents\Code\Projects\cypher\obj\Debug\net7.0\cypher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angus\Documents\Code\Projects\cypher\obj\Debug\net7.0\cypher.AssemblyInfoInputs.cache
+C:\Users\angus\Documents\Code\Projects\cypher\obj\Debug\net7.0\cypher.AssemblyInfo.cs
+C:\Users\angus\Documents\Code\Projects\cypher\obj\Debug\net7.0\cypher.csproj.CoreCompileInputs.cache
+C:\Users\angus\Documents\Code\Projects\cypher\bin\Debug\net7.0\cypher.exe
+C:\Users\angus\Documents\Code\Projects\cypher\bin\Debug\net7.0\cypher.deps.json
+C:\Users\angus\Documents\Code\Projects\cypher\bin\Debug\net7.0\cypher.runtimeconfig.json
+C:\Users\angus\Documents\Code\Projects\cypher\bin\Debug\net7.0\cypher.dll
+C:\Users\angus\Documents\Code\Projects\cypher\bin\Debug\net7.0\cypher.pdb
+C:\Users\angus\Documents\Code\Projects\cypher\obj\Debug\net7.0\cypher.dll
+C:\Users\angus\Documents\Code\Projects\cypher\obj\Debug\net7.0\refint\cypher.dll
+C:\Users\angus\Documents\Code\Projects\cypher\obj\Debug\net7.0\cypher.pdb
+C:\Users\angus\Documents\Code\Projects\cypher\obj\Debug\net7.0\cypher.genruntimeconfig.cache
+C:\Users\angus\Documents\Code\Projects\cypher\obj\Debug\net7.0\ref\cypher.dll
