@@ -24,9 +24,6 @@ namespace Cypher
 
 
 
-
-
-
         // input encrypted message
 
         // decrypt with key
